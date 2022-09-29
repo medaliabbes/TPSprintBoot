@@ -3,6 +3,7 @@ package tech.gestion_des_produits;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
 @SpringBootApplication
 public class GestionDesProduitsApplication {
 
